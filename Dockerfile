@@ -1,7 +1,7 @@
 FROM magikcraft/scriptcraft
 
 # Expose Minecraft server port
-EXPOSE 25565
+EXPOSE 19132 8086
 
 WORKDIR /_server_
 
