@@ -2,6 +2,10 @@
 
 A Nukkit-based server for the Scriptcraft Modular Architecture
 
+## To use
+
+The best way to use this image is via the [Scriptcraft Modular Architecture Controller](https://github.com/Magikcraft/smac).
+
 ## Plugins
 
 - BossBarAPI
